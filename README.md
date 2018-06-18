@@ -19,4 +19,4 @@ The running time of INVENTORY-PLANNINGINVENTORY-PLANNING is clearly O(nD2). The 
 
 
 Instruction:
-this is a python code it will run on pycharm software.
+this is a python code it will run on pycharm software.it has only 1 file main.py which has implementation of inventory planning
